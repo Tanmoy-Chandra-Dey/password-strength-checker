@@ -1,0 +1,13 @@
+Enter a password to analyze: Tanmoy123
+
+Password Analysis Result
+------------------------
+Strength: Moderate
+Entropy Score: 59.49 bits
+Issues Found:
+- Password does not include a special character.
+- Password contains a common word or pattern.
+
+Suggestions:
+- Add at least one special character.
+- Avoid using common words, names, or easy patterns.
