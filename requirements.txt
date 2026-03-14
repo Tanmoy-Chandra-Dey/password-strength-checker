@@ -1,0 +1,15 @@
+Password Strength Checker
+---------------------------------------
+
+Enter a password to analyze: Tanmoy123
+
+Result
+------
+Strength: Moderate
+Entropy: 59.49 bits
+
+Issues:
+- Add special characters.
+
+Suggestions:
+- Avoid common words or patterns.
